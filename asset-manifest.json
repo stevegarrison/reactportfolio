@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.e8c24495.chunk.css",
-    "main.js": "/repository-name/static/js/main.843e82cc.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.843e82cc.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.f7634681.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.f7634681.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/repository-name/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/repository-name/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.41fa24868956f5d666a0617fca3f4793.js": "/repository-name/precache-manifest.41fa24868956f5d666a0617fca3f4793.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/main.e8c24495.chunk.css.map": "/repository-name/static/css/main.e8c24495.chunk.css.map",
-    "static/media/CSU.jpg": "/repository-name/static/media/CSU.a4071660.jpg",
-    "static/media/DU.jpg": "/repository-name/static/media/DU.29eb3601.jpg",
-    "static/media/GS.png": "/repository-name/static/media/GS.4e766ba9.png",
-    "static/media/HPE.png": "/repository-name/static/media/HPE.308b55c6.png"
+    "main.css": "/reactportfolio/static/css/main.e8c24495.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.550aa24e.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.550aa24e.chunk.js.map",
+    "runtime~main.js": "/reactportfolio/static/js/runtime~main.d7794af4.js",
+    "runtime~main.js.map": "/reactportfolio/static/js/runtime~main.d7794af4.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/reactportfolio/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/reactportfolio/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.fb6db2d42c446a9f60f74de4a13c1908.js": "/reactportfolio/precache-manifest.fb6db2d42c446a9f60f74de4a13c1908.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.e8c24495.chunk.css.map": "/reactportfolio/static/css/main.e8c24495.chunk.css.map",
+    "static/media/CSU.jpg": "/reactportfolio/static/media/CSU.a4071660.jpg",
+    "static/media/DU.jpg": "/reactportfolio/static/media/DU.29eb3601.jpg",
+    "static/media/GS.png": "/reactportfolio/static/media/GS.4e766ba9.png",
+    "static/media/HPE.png": "/reactportfolio/static/media/HPE.308b55c6.png"
   }
 }
